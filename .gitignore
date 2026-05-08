@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Nodemon logs (optional)
+nodemon-debug.log
+
+# Package lock
+package-lock.json
+
+# Documentation files (optional)
+README.md
+README.txt
+ATTRIBUTIONS.md
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+pnpm-workspace.yaml
